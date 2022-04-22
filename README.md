@@ -12,3 +12,6 @@ pull request(PR)(发起请求)：当自己对他人的仓库内容进行修改�
 issue (事务问题)：提出bug或者交流的问题，大家一起解决。
 
 branch : 引入一个分支，default的主线是main。 new branch则会对当前仓库创建一个新的分支，可以用来测试不同的版本或者用于开发新项目，如果成功可以选择并入main中。
+
+
+[A](https://github.com/Xzore19/kmwsGithub/blob/e4f9211b19917b7f8037fbdc1047ef7ccee6db86/LICENSE)
