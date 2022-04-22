@@ -15,3 +15,5 @@ branch : 引入一个分支，default的主线是main。 new branch则会对当�
 
 
 [A](https://github.com/Xzore19/kmwsGithub/blob/e4f9211b19917b7f8037fbdc1047ef7ccee6db86/LICENSE)
+
+[A](LICENSE)
